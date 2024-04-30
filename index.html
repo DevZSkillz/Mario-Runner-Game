@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Meta tags for defining character set and viewport -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Title of the webpage -->
+    <title>Mario Runner Game</title>
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="./CSS/style.css" />
+  </head>
+  <body>
+    <!-- Container for the entire content -->
+    <div class="container">
+      <!-- Container for the game status bars -->
+      <div class="bar">
+        <!-- Health points (HP) display -->
+        <span id="hp">
+          <!-- Image representing health points -->
+          <img src="./Images/Objects/hp.png" />
+          <!-- Text label for health points -->
+          HP:
+          <!-- Actual health points value -->
+          <b id="hpBar">3</b>
+        </span>
+
+        <!-- Bullets display -->
+        <span id="bullets">
+          <!-- Image representing bullets -->
+          <img src="./Images/Objects/bullet.png" />
+          <!-- Text label for bullets -->
+          BULLETS:
+          <!-- Actual bullets value -->
+          <b id="bulletsBar">3</b>
+        </span>
+
+        <!-- Score display -->
+        <span id="score">
+          <!-- Image representing coins -->
+          <img src="./Images/Objects/coins.png" />
+          <!-- Text label for score -->
+          Score:
+          <!-- Actual score value -->
+          <b id="scoreBar">0</b>
+        </span>
+      </div>
+
+      <!-- Canvas for the game -->
+      <canvas id="gameCanvas" width="700" height="400"> </canvas>
+    </div>
+
+    <!-- Script tag linking to the JavaScript file -->
+    <script src="./JS/script.js"></script>
+  </body>
+</html>
