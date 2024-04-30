@@ -1,5 +1,8 @@
 **Mario Runner Game**
 
+![Screenshot 2024-04-30 154309](https://github.com/DevZSkillz/Mario-Runner-Game/assets/168499822/27add880-46c0-40ed-9d62-8d438d2c871a)
+
+
 Welcome to Mario Runner Game, a fun and exciting web-based game where you get to play as Mario and embark on an adventure filled with platforming challenges and enemies to defeat!
 
 **How to Play:**
@@ -34,7 +37,7 @@ Welcome to Mario Runner Game, a fun and exciting web-based game where you get to
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/mario-runner-game.git
+   git clone https://github.com/DevZSkillz/mario-runner-game.git
    ```
 
 2. Open the `index.html` file in your web browser to start playing the game.
