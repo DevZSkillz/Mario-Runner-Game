@@ -33,7 +33,7 @@ body {
 #gameCanvas {
   border: 1px solid black; /* Setting border */
   margin-top: 20px; /* Adding top margin */
-  background-image: url("Images/Background/background.png"); /* Setting background image */
+  background-image: url("./Images/Background/background.png"); /* Setting background image */
   box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.404); /* Adding box shadow */
 }
 
