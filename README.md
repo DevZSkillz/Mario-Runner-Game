@@ -45,3 +45,7 @@ Welcome to Mario Runner Game, a fun and exciting web-based game where you get to
 **Contributing:**
 
 Contributions are welcome! If you find any bugs or have ideas for new features, feel free to open an issue or submit a pull request.
+
+**Link:**
+
+https://devzskillz.github.io/Mario-Runner-Game/
